@@ -26,8 +26,8 @@ namespace WindowsFormsApplicationSpeech
             {
                 MessageBox.Show("deaf is deleted");
                 textBox1.Text = "";
-              
-             
+
+
 
 
             }
@@ -46,8 +46,8 @@ namespace WindowsFormsApplicationSpeech
             {
                 MessageBox.Show("stutter is deleted");
                 textBox1.Text = "";
-                
-              
+
+
 
 
             }
