@@ -62,9 +62,10 @@
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(102)))));
-            this.button1.Location = new System.Drawing.Point(340, 739);
+            this.button1.Location = new System.Drawing.Point(227, 480);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(102, 41);
+            this.button1.Size = new System.Drawing.Size(68, 27);
             this.button1.TabIndex = 0;
             this.button1.Text = "Add Deaf";
             this.button1.UseVisualStyleBackColor = false;
@@ -73,9 +74,10 @@
             // button2
             // 
             this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(102)))));
-            this.button2.Location = new System.Drawing.Point(329, 493);
+            this.button2.Location = new System.Drawing.Point(219, 320);
+            this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(103, 43);
+            this.button2.Size = new System.Drawing.Size(69, 28);
             this.button2.TabIndex = 1;
             this.button2.Text = "Add Stutter";
             this.button2.UseVisualStyleBackColor = false;
@@ -84,9 +86,10 @@
             // button3
             // 
             this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(102)))));
-            this.button3.Location = new System.Drawing.Point(1181, 753);
+            this.button3.Location = new System.Drawing.Point(787, 489);
+            this.button3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(123, 32);
+            this.button3.Size = new System.Drawing.Size(82, 21);
             this.button3.TabIndex = 2;
             this.button3.Text = "Update Deaf";
             this.button3.UseVisualStyleBackColor = false;
@@ -95,9 +98,10 @@
             // button4
             // 
             this.button4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(102)))));
-            this.button4.Location = new System.Drawing.Point(1153, 471);
+            this.button4.Location = new System.Drawing.Point(769, 306);
+            this.button4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(151, 40);
+            this.button4.Size = new System.Drawing.Size(101, 26);
             this.button4.TabIndex = 3;
             this.button4.Text = "Update Stutter";
             this.button4.UseVisualStyleBackColor = false;
@@ -106,9 +110,10 @@
             // button5
             // 
             this.button5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(102)))));
-            this.button5.Location = new System.Drawing.Point(707, 748);
+            this.button5.Location = new System.Drawing.Point(471, 486);
+            this.button5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(134, 43);
+            this.button5.Size = new System.Drawing.Size(89, 28);
             this.button5.TabIndex = 4;
             this.button5.Text = "Delete Deaf";
             this.button5.UseVisualStyleBackColor = false;
@@ -117,9 +122,10 @@
             // button6
             // 
             this.button6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(102)))));
-            this.button6.Location = new System.Drawing.Point(718, 476);
+            this.button6.Location = new System.Drawing.Point(479, 309);
+            this.button6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(123, 35);
+            this.button6.Size = new System.Drawing.Size(82, 23);
             this.button6.TabIndex = 5;
             this.button6.Text = "Delete Stutter";
             this.button6.UseVisualStyleBackColor = false;
@@ -128,9 +134,10 @@
             // button8
             // 
             this.button8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(102)))));
-            this.button8.Location = new System.Drawing.Point(1511, 727);
+            this.button8.Location = new System.Drawing.Point(1007, 473);
+            this.button8.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(134, 32);
+            this.button8.Size = new System.Drawing.Size(89, 21);
             this.button8.TabIndex = 7;
             this.button8.Text = "Report Deaf";
             this.button8.UseVisualStyleBackColor = false;
@@ -140,17 +147,19 @@
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(102)))));
             this.panel1.Controls.Add(this.pictureBox1);
-            this.panel1.Location = new System.Drawing.Point(1, 63);
+            this.panel1.Location = new System.Drawing.Point(1, 41);
+            this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1934, 53);
+            this.panel1.Size = new System.Drawing.Size(1289, 34);
             this.panel1.TabIndex = 9;
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::WindowsFormsApplicationSpeech.Properties.Resources.logout;
-            this.pictureBox1.Location = new System.Drawing.Point(1825, 3);
+            this.pictureBox1.Location = new System.Drawing.Point(1217, 2);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(70, 50);
+            this.pictureBox1.Size = new System.Drawing.Size(47, 32);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 8;
             this.pictureBox1.TabStop = false;
@@ -159,17 +168,19 @@
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(102)))));
-            this.panel2.Location = new System.Drawing.Point(1, 819);
+            this.panel2.Location = new System.Drawing.Point(1, 532);
+            this.panel2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1934, 53);
+            this.panel2.Size = new System.Drawing.Size(1289, 34);
             this.panel2.TabIndex = 10;
             // 
             // pictureBox8
             // 
             this.pictureBox8.Image = global::WindowsFormsApplicationSpeech.Properties.Resources.upa;
-            this.pictureBox8.Location = new System.Drawing.Point(1136, 533);
+            this.pictureBox8.Location = new System.Drawing.Point(757, 346);
+            this.pictureBox8.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(204, 176);
+            this.pictureBox8.Size = new System.Drawing.Size(136, 114);
             this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox8.TabIndex = 21;
             this.pictureBox8.TabStop = false;
@@ -177,9 +188,10 @@
             // pictureBox6
             // 
             this.pictureBox6.Image = global::WindowsFormsApplicationSpeech.Properties.Resources.del;
-            this.pictureBox6.Location = new System.Drawing.Point(693, 542);
+            this.pictureBox6.Location = new System.Drawing.Point(462, 352);
+            this.pictureBox6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(204, 176);
+            this.pictureBox6.Size = new System.Drawing.Size(136, 114);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox6.TabIndex = 20;
             this.pictureBox6.TabStop = false;
@@ -187,9 +199,10 @@
             // pictureBox7
             // 
             this.pictureBox7.Image = global::WindowsFormsApplicationSpeech.Properties.Resources.boshra;
-            this.pictureBox7.Location = new System.Drawing.Point(1470, 533);
+            this.pictureBox7.Location = new System.Drawing.Point(980, 346);
+            this.pictureBox7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(204, 176);
+            this.pictureBox7.Size = new System.Drawing.Size(136, 114);
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox7.TabIndex = 16;
             this.pictureBox7.TabStop = false;
@@ -197,9 +210,10 @@
             // pictureBox4
             // 
             this.pictureBox4.Image = global::WindowsFormsApplicationSpeech.Properties.Resources.upa;
-            this.pictureBox4.Location = new System.Drawing.Point(1136, 278);
+            this.pictureBox4.Location = new System.Drawing.Point(757, 181);
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(204, 176);
+            this.pictureBox4.Size = new System.Drawing.Size(136, 114);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 13;
             this.pictureBox4.TabStop = false;
@@ -207,9 +221,10 @@
             // pictureBox5
             // 
             this.pictureBox5.Image = global::WindowsFormsApplicationSpeech.Properties.Resources.del;
-            this.pictureBox5.Location = new System.Drawing.Point(693, 287);
+            this.pictureBox5.Location = new System.Drawing.Point(462, 187);
+            this.pictureBox5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(204, 176);
+            this.pictureBox5.Size = new System.Drawing.Size(136, 114);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox5.TabIndex = 14;
             this.pictureBox5.TabStop = false;
@@ -217,9 +232,10 @@
             // pictureBox9
             // 
             this.pictureBox9.Image = global::WindowsFormsApplicationSpeech.Properties.Resources.aau;
-            this.pictureBox9.Location = new System.Drawing.Point(288, 300);
+            this.pictureBox9.Location = new System.Drawing.Point(192, 195);
+            this.pictureBox9.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.Size = new System.Drawing.Size(204, 176);
+            this.pictureBox9.Size = new System.Drawing.Size(136, 114);
             this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox9.TabIndex = 23;
             this.pictureBox9.TabStop = false;
@@ -227,9 +243,10 @@
             // pictureBox11
             // 
             this.pictureBox11.Image = global::WindowsFormsApplicationSpeech.Properties.Resources.aau;
-            this.pictureBox11.Location = new System.Drawing.Point(288, 542);
+            this.pictureBox11.Location = new System.Drawing.Point(192, 352);
+            this.pictureBox11.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox11.Name = "pictureBox11";
-            this.pictureBox11.Size = new System.Drawing.Size(204, 176);
+            this.pictureBox11.Size = new System.Drawing.Size(136, 114);
             this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox11.TabIndex = 24;
             this.pictureBox11.TabStop = false;
@@ -237,9 +254,10 @@
             // button7
             // 
             this.button7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(102)))));
-            this.button7.Location = new System.Drawing.Point(1511, 471);
+            this.button7.Location = new System.Drawing.Point(1007, 306);
+            this.button7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(134, 34);
+            this.button7.Size = new System.Drawing.Size(89, 22);
             this.button7.TabIndex = 6;
             this.button7.Text = "Report Stutter";
             this.button7.UseVisualStyleBackColor = false;
@@ -248,19 +266,20 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = global::WindowsFormsApplicationSpeech.Properties.Resources.boshra;
-            this.pictureBox2.Location = new System.Drawing.Point(1470, 278);
+            this.pictureBox2.Location = new System.Drawing.Point(980, 181);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(204, 176);
+            this.pictureBox2.Size = new System.Drawing.Size(136, 114);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 25;
             this.pictureBox2.TabStop = false;
             // 
             // adminPage
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(179)))), ((int)(((byte)(255)))), ((int)(((byte)(217)))));
-            this.ClientSize = new System.Drawing.Size(1924, 1050);
+            this.ClientSize = new System.Drawing.Size(1216, 630);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox8);
             this.Controls.Add(this.pictureBox6);
@@ -279,6 +298,7 @@
             this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.pictureBox11);
             this.Controls.Add(this.pictureBox9);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "adminPage";
             this.Text = "adminPage";
             this.Load += new System.EventHandler(this.adminPage_Load);
