@@ -204,3 +204,46 @@ C:\Users\ps\Desktop\final\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug
 C:\Users\ps\Desktop\final\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.csproj.CopyComplete
 C:\Users\ps\Desktop\final\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.exe
 C:\Users\ps\Desktop\final\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.pdb
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\bin\Debug\DatabaseUsers.mdf
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\bin\Debug\DatabaseUsers_log.ldf
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\bin\Debug\WindowsFormsApplicationSpeech.exe.config
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\bin\Debug\WindowsFormsApplicationSpeech.exe
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\bin\Debug\WindowsFormsApplicationSpeech.pdb
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\bin\Debug\EntityFramework.dll
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\bin\Debug\EntityFramework.xml
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.csprojAssemblyReference.cache
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.addImige.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.addUsers.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.Class.adminPage.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.Class.Register.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.CountUsStutter.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.deafsReport.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.practice.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.ReportDeaf.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.reportStutter.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.SpeechRecognition.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.SspeeckForm.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.stuttersReport.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.updateStutter.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.Class.updateUsers.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.contactUs.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.deafPage.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.deleteDeaf.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.deleteStutter.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.deletUser.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.FrmLogin.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.Properties.Resources.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.singUp.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.speeckForm.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.stutterer.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.updeatDeaf.resources
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.csproj.GenerateResource.cache
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.csproj.CoreCompileInputs.cache
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.csproj.CopyComplete
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.exe
+C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\obj\Debug\WindowsFormsApplicationSpeech.pdb

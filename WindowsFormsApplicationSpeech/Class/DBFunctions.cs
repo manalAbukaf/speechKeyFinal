@@ -31,7 +31,7 @@ namespace WindowsFormsApplicationSpeech
             //conObj.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\LENOVO\Desktop\2019_8_group_#27\2019_8_group-_27\project2018yos\DataApp\DatabaseProject2018.accdb;Persist Security Info=False;"; // نعطيه الرابط
 
             //Access File Of The Database Exists in The Project
-            conObj.ConnectionString =(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\ps\Desktop\final\speechKeyFinal\WindowsFormsApplicationSpeech\DatabaseUsers.mdf;Integrated Security=True");
+            conObj.ConnectionString =(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\ayam9\OneDrive\שולחן העבודה\Sofi\speechKeyFinal\WindowsFormsApplicationSpeech\DatabaseUsers.mdf;Integrated Security=True");
 
 
             conObj.Open();//فتح الرابط
